@@ -1,0 +1,11 @@
+{
+  "name": "pavel-skrbel/twitch-api",
+  "autoload": {
+    "psr-4": {
+      "Twitch\\": "src"
+    }
+  },
+  "require": {
+    "ext-curl": "*"
+  }
+}
