@@ -1,5 +1,5 @@
 {
-  "name": "pavel-skrbel/twitch-api",
+  "name": "pajaeu/twitch-api",
   "autoload": {
     "psr-4": {
       "Twitch\\": "src"
